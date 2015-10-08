@@ -1,5 +1,5 @@
 # Android-WebViewTest
-Small WebView test project, stuff to know:
+Small WebView test project, stuff to know:  
 1 The bacis: define webview in xml, findViewById, and then load url, use webclient to open it the in view  
 
 2 Decide which website to open: myWebclient and override shouldAvroidUrlLoading  
